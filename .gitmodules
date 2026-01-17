@@ -1,0 +1,3 @@
+[submodule "mmiw-skill"]
+	path = mmiw-skill
+	url = https://github.com/caseyjkey/mmiw-skill.git
