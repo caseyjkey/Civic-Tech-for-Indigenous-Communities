@@ -1,3 +1,6 @@
 [submodule "mmiw-skill"]
 	path = mmiw-skill
 	url = https://github.com/caseyjkey/mmiw-skill.git
+[submodule "HackCU-007"]
+	path = HackCU-007
+	url = git@github.com:caseyjkey/HackCU-007.git
